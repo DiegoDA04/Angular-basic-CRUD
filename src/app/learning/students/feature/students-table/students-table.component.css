@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+}
+.table-wrapper {
+  width: 1024px;
+  margin: 40px auto;
+}
+
+mat-form-field{
+  padding-right: 1.5rem;
+}
+.editable-row {
+  background-color: lightskyblue;
+}
